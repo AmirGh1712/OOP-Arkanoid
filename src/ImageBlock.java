@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for image block.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ImageBlock extends DefaultBlock {
     private Image image;

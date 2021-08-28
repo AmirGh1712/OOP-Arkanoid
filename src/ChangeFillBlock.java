@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for change fill block.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ChangeFillBlock extends BlockDecorator {
     private Map<Integer, FillStyle> map;

@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for image background.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ImageBackground extends Background {
     private Image image;

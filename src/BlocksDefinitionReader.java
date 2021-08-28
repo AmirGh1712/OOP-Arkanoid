@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
 /**
  * The main class for blocks definition reader.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class BlocksDefinitionReader {
     /**Read the file and create a factory according to it.

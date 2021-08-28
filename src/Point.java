@@ -3,7 +3,7 @@ import java.awt.Color;
 /**
  * The main class for point.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Point {
     private double x;

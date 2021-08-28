@@ -4,7 +4,7 @@ import biuoop.GUI;
 /**
  * The main class for start game task.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class StartGameTask implements Task<Void> {
     private GUI gui;

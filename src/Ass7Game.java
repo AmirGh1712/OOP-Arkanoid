@@ -4,7 +4,7 @@ import biuoop.GUI;
 /**
  * The main class for ass7 game.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Ass7Game {
     private static final File FILENAME = new File("highscores.ser");

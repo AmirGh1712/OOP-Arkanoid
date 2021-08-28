@@ -2,7 +2,7 @@ import java.io.Serializable;
 /**
  * The main class for score information.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ScoreInfo implements Serializable {
     private String name;

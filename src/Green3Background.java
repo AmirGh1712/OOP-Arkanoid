@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the background of green 3 level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Green3Background implements Sprite {
     @Override

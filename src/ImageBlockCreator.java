@@ -2,7 +2,7 @@ import java.awt.Image;
 /**
  * The main class for image block creator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ImageBlockCreator implements BlockCreator {
     private int width;

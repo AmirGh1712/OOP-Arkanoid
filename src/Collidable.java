@@ -1,7 +1,7 @@
 /**
  * The interface for collidable.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface Collidable {
     /**Return the "collision shape" of the object.

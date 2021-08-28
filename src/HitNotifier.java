@@ -1,7 +1,7 @@
 /**
  * The interface for HitNotifier.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface HitNotifier {
     /**Add hl as a listener to hit events.

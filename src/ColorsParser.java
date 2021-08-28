@@ -2,7 +2,7 @@ import java.awt.Color;
 /**
  * The main class for color praser.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ColorsParser {
     /**Parse color definition and return the specified color.

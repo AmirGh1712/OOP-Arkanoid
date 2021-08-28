@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the pause screen.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class PauseScreen implements Animation {
     @Override

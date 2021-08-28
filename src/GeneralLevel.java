@@ -3,7 +3,7 @@ import java.util.List;
 /**
  * The main class for general level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class GeneralLevel implements LevelInformation {
     private List<Velocity> velocities;

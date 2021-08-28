@@ -3,7 +3,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for key pressed stoppable animation.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class KeyPressStoppableAnimation implements Animation {
     private KeyboardSensor keyboardSensor;

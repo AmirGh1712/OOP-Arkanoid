@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for stroke block.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class StrokeBlock extends BlockDecorator {
     private Block decorator;

@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for image fill style.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ImageFillStyle implements FillStyle {
     private Image img;

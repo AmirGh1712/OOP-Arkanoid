@@ -2,7 +2,7 @@ import java.awt.Color;
 /**
  * The main class for default block creator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class DefaultBlockCreator implements BlockCreator {
     private int width;

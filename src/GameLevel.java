@@ -4,7 +4,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for game level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class GameLevel implements Animation {
     private static final int GUI_WIDTH = 800;

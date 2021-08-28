@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the background of the direct hit level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class DirectHitBackground implements Sprite {
     @Override

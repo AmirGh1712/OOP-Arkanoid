@@ -5,7 +5,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for default block that implements sprite, collidable and HitNotifier.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class DefaultBlock implements Block {
     private Rectangle rectangle;

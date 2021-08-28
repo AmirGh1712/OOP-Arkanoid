@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * The main class for wide easy level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class WideEasyLevel implements LevelInformation {
     @Override

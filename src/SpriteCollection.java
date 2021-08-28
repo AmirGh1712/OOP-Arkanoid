@@ -4,7 +4,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for sprite collection.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class SpriteCollection {
     private List<Sprite> sprites;

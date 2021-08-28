@@ -1,7 +1,7 @@
 /**
  * The interface for HitListener.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface HitListener {
     /** This method is called whenever the beingHit object is hit.

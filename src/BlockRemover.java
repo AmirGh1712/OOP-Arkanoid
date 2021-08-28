@@ -2,7 +2,7 @@
  * A BlockRemover is in charge of removing blocks from the game, as well as keeping count
  * of the number of blocks that remain.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class BlockRemover implements HitListener {
     private GameLevel game;

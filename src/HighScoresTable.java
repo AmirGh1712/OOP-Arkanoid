@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * The main class for high score table.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 class HighScoresTable implements Serializable {
     private List<ScoreInfo> scores;

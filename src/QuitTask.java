@@ -2,7 +2,7 @@ import biuoop.GUI;
 /**
  * The main class for quit task.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class QuitTask implements Task<Void> {
     private GUI gui;

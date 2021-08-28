@@ -7,7 +7,7 @@ import javax.imageio.ImageIO;
 /**
  * The main class for level specification reader.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class LevelSpecificationReader {
     private static final String START = "START_LEVEL";

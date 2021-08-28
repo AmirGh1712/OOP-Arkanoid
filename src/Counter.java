@@ -1,7 +1,7 @@
 /**
  * The main class for Countr.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Counter {
     private int value;

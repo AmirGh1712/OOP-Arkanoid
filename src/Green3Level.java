@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * The main class for the green 3 level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Green3Level implements LevelInformation {
     @Override

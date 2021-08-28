@@ -6,7 +6,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for the game flow.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class GameFlow {
     private AnimationRunner animationRunner;

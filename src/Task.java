@@ -1,7 +1,7 @@
 /**
  * The interface for task.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  *
  * @param <T> the return value.
  */

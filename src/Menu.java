@@ -1,7 +1,7 @@
 /**
  * The main interface for menu.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  *
  * @param <T> the type of the return value.
  */

@@ -2,7 +2,7 @@ import java.util.List;
 /**
  * The main interface for a level information.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface LevelInformation {
     /**Return the number of balls in the game.

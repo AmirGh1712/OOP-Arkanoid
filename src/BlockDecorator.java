@@ -3,7 +3,7 @@ import java.util.List;
 /**
  * The abstract class for block decorator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public abstract class BlockDecorator implements Block  {
     private Block decorator;

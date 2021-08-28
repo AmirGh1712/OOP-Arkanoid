@@ -4,7 +4,7 @@ import biuoop.Sleeper;
 /**
  * The main class for an animation runner.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class AnimationRunner {
     private GUI gui;

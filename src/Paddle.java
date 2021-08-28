@@ -4,7 +4,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for paddle that implements sprite and collidable.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Paddle implements Sprite, Collidable {
     private KeyboardSensor keyboard;

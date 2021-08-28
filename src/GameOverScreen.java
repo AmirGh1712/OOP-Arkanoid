@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the game over screen.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class GameOverScreen implements Animation {
     private int score;

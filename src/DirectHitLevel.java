@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * The main class for the direct hit level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class DirectHitLevel implements LevelInformation {
     @Override

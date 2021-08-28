@@ -2,7 +2,7 @@ import java.util.Map;
 /**
  * The main class for change fill block creator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ChangeFillBlockCreator extends BlockCreatorDecorator {
     private BlockCreator decorator;

@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for high scores animation.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class HighScoresAnimation implements Animation {
     private HighScoresTable table;

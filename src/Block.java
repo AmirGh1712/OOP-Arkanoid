@@ -1,7 +1,7 @@
 /**
  * The interface for block.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface Block extends Collidable, Sprite, HitNotifier {
     /**Return the hit points.

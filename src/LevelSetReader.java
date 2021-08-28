@@ -9,7 +9,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for level sets reader.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class LevelSetReader {
     private KeyboardSensor sensor;

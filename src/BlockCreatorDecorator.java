@@ -1,7 +1,7 @@
 /**
  * The abstract class for block creator decorator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public abstract class BlockCreatorDecorator implements BlockCreator {
     private BlockCreator decorator;

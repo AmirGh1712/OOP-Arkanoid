@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * The main class for the background of the final four level.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class FinalFourLevel implements LevelInformation {
     @Override

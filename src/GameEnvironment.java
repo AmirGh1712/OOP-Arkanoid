@@ -3,7 +3,7 @@ import java.util.List;
 /**
  * The main class for game environment.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class GameEnvironment {
     private List<Collidable> collidables;

@@ -2,7 +2,7 @@ import biuoop.KeyboardSensor;
 /**
  * The main class for show high score task game.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ShowHiScoresTask implements Task<Void> {
     private AnimationRunner runner;

@@ -1,5 +1,3 @@
-#212938724
-#gheriaa
 compile: bin
 	javac -cp biuoop-1.4.jar:src -d bin src/*.java
 

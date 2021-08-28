@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the winning screen.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class YouWinScreen implements Animation {
     private int score;

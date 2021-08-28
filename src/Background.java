@@ -4,7 +4,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for background.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Background implements Sprite {
     private Color color;

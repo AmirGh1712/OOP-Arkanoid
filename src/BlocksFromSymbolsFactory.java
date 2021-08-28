@@ -2,7 +2,7 @@ import java.util.Map;
 /**
  * The main class for blocks factory from symbols.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class BlocksFromSymbolsFactory {
     private Map<String, Integer> spacerWidths;

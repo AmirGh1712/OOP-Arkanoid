@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for level name indicator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class LevelNameIndIcator implements Sprite {
     private String levelName;

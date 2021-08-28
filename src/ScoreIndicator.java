@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for score indicator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ScoreIndicator implements Sprite {
     private Counter score;

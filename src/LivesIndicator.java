@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for LivesIndicator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class LivesIndicator implements Sprite {
     private Counter lives;

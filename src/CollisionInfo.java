@@ -1,7 +1,7 @@
 /**
  * The main class for collision info.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class CollisionInfo {
     private Point collisionPoint;

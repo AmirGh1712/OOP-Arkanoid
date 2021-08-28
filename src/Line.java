@@ -7,7 +7,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for line.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class Line {
     private Point start;

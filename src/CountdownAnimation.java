@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for the countdown animation.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class CountdownAnimation implements Animation {
     private boolean stop;

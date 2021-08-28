@@ -1,7 +1,7 @@
 /**
  * The interface for block creator.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public interface BlockCreator {
     /**Create a block at the specified location.

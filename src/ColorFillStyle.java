@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 /**
  * The main class for color fill style.
  *
- * @author Amir Gheriani 212938724
+ * @author Amir Gheriani
  */
 public class ColorFillStyle implements FillStyle {
     private Color color;
